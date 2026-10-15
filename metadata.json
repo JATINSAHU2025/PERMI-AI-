@@ -1,0 +1,6 @@
+{
+  "name": "Permi Scan — Proactive Android App Security Assistant",
+  "description": "Native Android cybersecurity assistant built with Kotlin & Jetpack Compose to audit permissions, monitor background usage, evaluate risk patterns, and perform pre-installation APK checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

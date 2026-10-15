@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Permi Scan</string>
+    <string name="scan_device">Scan Device</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="installed_apps">Installed Apps</string>
+    <string name="analytics">Analytics</string>
+    <string name="security_findings">Findings</string>
+    <string name="apk_security_check">APK Check</string>
+    <string name="scan_history">Scan History</string>
+    <string name="settings">Settings &amp; Privacy</string>
+</resources>
